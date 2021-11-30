@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MovieRecommenderBot/static/css/main.b2a06e25.chunk.css",
+    "main.js": "/MovieRecommenderBot/static/js/main.5b689e1e.chunk.js",
+    "main.js.map": "/MovieRecommenderBot/static/js/main.5b689e1e.chunk.js.map",
+    "runtime-main.js": "/MovieRecommenderBot/static/js/runtime-main.8b508be5.js",
+    "runtime-main.js.map": "/MovieRecommenderBot/static/js/runtime-main.8b508be5.js.map",
+    "static/js/2.9dc09f56.chunk.js": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js",
+    "static/js/2.9dc09f56.chunk.js.map": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js.map",
+    "index.html": "/MovieRecommenderBot/index.html",
+    "precache-manifest.f8a447ae3c9192f1bcfea95507188025.js": "/MovieRecommenderBot/precache-manifest.f8a447ae3c9192f1bcfea95507188025.js",
+    "service-worker.js": "/MovieRecommenderBot/service-worker.js",
+    "static/css/main.b2a06e25.chunk.css.map": "/MovieRecommenderBot/static/css/main.b2a06e25.chunk.css.map",
+    "static/js/2.9dc09f56.chunk.js.LICENSE.txt": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/MovieRecommenderBot/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/logo-moviebot-small-circle2.png": "/MovieRecommenderBot/static/media/logo-moviebot-small-circle2.25e2f74d.png",
+    "static/media/ratings-demo.gif": "/MovieRecommenderBot/static/media/ratings-demo.1b422c1f.gif",
+    "static/media/recommendation-demo.gif": "/MovieRecommenderBot/static/media/recommendation-demo.6a8c0c32.gif",
+    "static/media/stats-demo.gif": "/MovieRecommenderBot/static/media/stats-demo.864caac9.gif",
+    "static/media/video-placeholder-movieBot2.png": "/MovieRecommenderBot/static/media/video-placeholder-movieBot2.761c7f93.png",
+    "static/media/watchlist-demo.gif": "/MovieRecommenderBot/static/media/watchlist-demo.f3e8d1ce.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b508be5.js",
+    "static/js/2.9dc09f56.chunk.js",
+    "static/css/main.b2a06e25.chunk.css",
+    "static/js/main.5b689e1e.chunk.js"
+  ]
+}
