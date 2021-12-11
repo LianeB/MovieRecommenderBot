@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7848836339a0aa5cc4799904a2e049e",
+    "revision": "17e63cbc294ccca1ed5035e5eafe9da7",
     "url": "/MovieRecommenderBot/index.html"
   },
   {
-    "revision": "30b8c7d6ca4d83ec1a17",
+    "revision": "5928c65e1dee01be2c10",
     "url": "/MovieRecommenderBot/static/css/main.b2a06e25.chunk.css"
   },
   {
-    "revision": "5ea4ae8542211394f5d8",
-    "url": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js"
+    "revision": "cd0ed53046b1e09ad41c",
+    "url": "/MovieRecommenderBot/static/js/2.f92b5f4c.chunk.js"
   },
   {
     "revision": "0def066106b5692cd5c135dcafc5767d",
-    "url": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js.LICENSE.txt"
+    "url": "/MovieRecommenderBot/static/js/2.f92b5f4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30b8c7d6ca4d83ec1a17",
-    "url": "/MovieRecommenderBot/static/js/main.c8aecb62.chunk.js"
+    "revision": "5928c65e1dee01be2c10",
+    "url": "/MovieRecommenderBot/static/js/main.d375a853.chunk.js"
   },
   {
     "revision": "a192624826da4d574e34",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MovieRecommenderBot/static/css/main.b2a06e25.chunk.css",
-    "main.js": "/MovieRecommenderBot/static/js/main.c8aecb62.chunk.js",
-    "main.js.map": "/MovieRecommenderBot/static/js/main.c8aecb62.chunk.js.map",
+    "main.js": "/MovieRecommenderBot/static/js/main.d375a853.chunk.js",
+    "main.js.map": "/MovieRecommenderBot/static/js/main.d375a853.chunk.js.map",
     "runtime-main.js": "/MovieRecommenderBot/static/js/runtime-main.8b508be5.js",
     "runtime-main.js.map": "/MovieRecommenderBot/static/js/runtime-main.8b508be5.js.map",
-    "static/js/2.9dc09f56.chunk.js": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js",
-    "static/js/2.9dc09f56.chunk.js.map": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js.map",
+    "static/js/2.f92b5f4c.chunk.js": "/MovieRecommenderBot/static/js/2.f92b5f4c.chunk.js",
+    "static/js/2.f92b5f4c.chunk.js.map": "/MovieRecommenderBot/static/js/2.f92b5f4c.chunk.js.map",
     "index.html": "/MovieRecommenderBot/index.html",
-    "precache-manifest.b6bc832dd52ffb617a7b60c334e7b1f9.js": "/MovieRecommenderBot/precache-manifest.b6bc832dd52ffb617a7b60c334e7b1f9.js",
+    "precache-manifest.da43ef3e80f51a6439de2302073b305e.js": "/MovieRecommenderBot/precache-manifest.da43ef3e80f51a6439de2302073b305e.js",
     "service-worker.js": "/MovieRecommenderBot/service-worker.js",
     "static/css/main.b2a06e25.chunk.css.map": "/MovieRecommenderBot/static/css/main.b2a06e25.chunk.css.map",
-    "static/js/2.9dc09f56.chunk.js.LICENSE.txt": "/MovieRecommenderBot/static/js/2.9dc09f56.chunk.js.LICENSE.txt",
+    "static/js/2.f92b5f4c.chunk.js.LICENSE.txt": "/MovieRecommenderBot/static/js/2.f92b5f4c.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/MovieRecommenderBot/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/MovieRecommenderBot/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8b508be5.js",
-    "static/js/2.9dc09f56.chunk.js",
+    "static/js/2.f92b5f4c.chunk.js",
     "static/css/main.b2a06e25.chunk.css",
-    "static/js/main.c8aecb62.chunk.js"
+    "static/js/main.d375a853.chunk.js"
   ]
 }
