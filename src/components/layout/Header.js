@@ -58,6 +58,10 @@ const Header = ({
     setIsactive(false);
   }
 
+  const invitebot = () => {
+    window.location.href = 'https://discord.com/api/oauth2/authorize?client_id=883400446939635734&permissions=285615451168&scope=bot';
+  }
+
   const keyPress = (e) => {
     isActive && e.keyCode === 27 && closeMenu();
   }
@@ -111,16 +115,13 @@ const Header = ({
                       'list-reset text-xs',
                       navPosition && `header-nav-${navPosition}`
                     )}>
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
-                    </li>
                   </ul>
                   {!hideSignin &&
                     <ul
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Invite</Link>
+                        <Link className="button button-primary button-wide-mobile button-sm" onClick={invitebot}>Invite</Link>
                       </li>
                     </ul>}
                 </div>

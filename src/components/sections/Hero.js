@@ -69,11 +69,11 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://discord.com/api/oauth2/authorize?client_id=883400446939635734&permissions=285615451168&scope=bot">
                     Invite
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://depot.dinf.usherbrooke.ca/dinf/projets/a21/eq12-discord-bot/discord-bot">
+                    View on GitLab
                     </Button>
                 </ButtonGroup>
               </div>
@@ -81,7 +81,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/650086918"
+              data-video="https://player.vimeo.com/video/655698253"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -98,7 +98,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/650086918"
+            video="https://player.vimeo.com/video/655698253"
             videoTag="iframe" />
         </div>
       </div>
